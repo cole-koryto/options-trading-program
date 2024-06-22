@@ -1,0 +1,16 @@
+1.	Check IV % for all symbols
+2.	Look for 30-60 day option chain for symbols with valid IV%
+3.	Check open interest and volume in expiration ranges and eliminate unusable expirations
+a.	At the money open interest > 1000 and volume >500
+4.	Check through every strike in all valid expirations for every valid symbol to find correct delta range and bid ask spread
+a.	Spread <=0.03
+5.	Construct iron condor template for one trade and check if trade can be made given max position limit
+6.	Also use template to check if expected value is >= 0
+7.	Add to viable trade list
+8.	Repeat 5 through 7 until all viable trades are made
+9.	Sort trades by highest expected value
+10.	Place trades for day expiration until max allocation
+11.	Check if trades have been made successful after ______ minutes and log trades parameters if successful
+
+# todo
+Can trades be made and checked fast enough that parameters don’t change drastically?

@@ -1,0 +1,1 @@
+2022-05-16,SPY_061722P360, Credit: 143.0, Max Loss: 357.0, Expected Value: 10.5, Chance to Win: 0.735

@@ -1,0 +1,4 @@
+2022-03-28,SPY_052022P402,SPY_052022P407,SPY_052022C478,SPY_052022C483, Total Profit: 82.0, Chance To Win: Null, Original Credit: Null, Max Loss: Null, Expected Value: Null 4/11???
+2022-04-11,SPY_052022P397,SPY_052022P402,SPY_052022C464,SPY_052022C469, Total Profit: 88.0, Chance To Win: Null, Original Credit: Null, Max Loss: Null, Expected Value: Null  4/18
+2022-04-22,SPY_061722P378,SPY_061722P383,SPY_061722C461,SPY_061722C466, Total Profit: 87.0, Chance To Win: Null, Original Credit: Null, Max Loss: Null, Expected Value: Null  5/10
+2022-05-10,QQQ_061722P255,QQQ_061722P260,QQQ_061722C339,QQQ_061722C344, Total Profit: 68.0, Chance To Win: Null, Original Credit: Null, Max Loss: Null, Expected Value: Null  5/17
