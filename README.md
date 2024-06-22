@@ -1,2 +1,2 @@
 # options-trading-program
-This program trades options with the TD Ameritrade API 
+This program trades options with the TD Ameritrade API (No longer working due to merger with Schwab)
